@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/puzzletoy"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="D:/Aleksey/Dropbox/javaworkspase/Libs/gdx-backend-android.jar" sourcepath="D:/Aleksey/Dropbox/javaworkspase/puzzletoy/gdx-backend-android-sources.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="lib" path="D:/Aleksey/Dropbox/javaworkspase/Libs/openiab-0.9.7.2.jar"/>
+	<classpathentry kind="lib" path="D:/Aleksey/Dropbox/javaworkspase/Libs/extensions/gdx-box2d/gdx-box2d.jar" sourcepath="D:/Aleksey/Dropbox/javaworkspase/puzzletoy/gdx-box2d-1.4.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Aleksey/Dropbox/javaworkspase/Libs/gdx.jar" sourcepath="D:/Aleksey/Dropbox/javaworkspase/gdx/sources/gdx-sources.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
